@@ -79,14 +79,6 @@ While this is a simplified prototype for the hackathon, the following upgrades a
 
 ---
 
-## 📹 Demo
-
-- ✅ Screenshots and full video demo recorded  
-- ✅ Working Chainlink Functions request shown  
-- ✅ Data correctly parsed and stored on-chain  
-
----
-
 ## 🔗 Project Links
 
 - **Canva Design (Brochure/Slides):** [View on Canva](https://www.canva.com/design/DAGrqBWirLk/SAArdJnI_be1nVvHEw-1oQ/view?utm_content=DAGrqBWirLk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4229c9811c)

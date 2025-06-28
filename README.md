@@ -62,6 +62,7 @@ In Remix:
 
 ```solidity
 requestPropertyData(subscriptionId, 2)
+```
 
 ## 🔐 Future Improvements (Advanced Version)
 
